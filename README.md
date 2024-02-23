@@ -20,3 +20,9 @@ stampa un messaggio appropriato sull’esito del controllo.
 Gioco dei dadi
 Generare un numero random da 1 a 6, sia per il giocatore sia per il computer.
 Stabilire il vincitore, in base a chi fa il punteggio più alto.
+
+
+1. creo una variabile con numero random per il giocatore e ripeto lo stesso procedimento anche per il conputer
+2. con un if statement controllo quale delle due variabili ha il numero maggiore 
+3. in caso il giocatore abbia un numero maggiore stampo che ha vinto lui, in caso lo abbia il pc stampo che ha vinto il pc
+4. in caso i numeri siano pari stampo che è un pareggio
